@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5b033ec4f458c84f8e0a3f31bbaaf9e, type: 3}
+  m_Name: ILLOCABEZA
+  m_EditorClassIdentifier: 
+  cardName: IlloCabeza
+  cardDescription: Si te da un cabezazo automaticamente mata a dos de sus enemigos
+    de solo 1 ataque ( carta de 1 solo uso )
+  cardAttack: 300
+  cardDefense: 20
+  cardCost: 20
+  cardArt: {fileID: 21300000, guid: 64e8e7c4f3505654aafd22ed25c4bc18, type: 3}

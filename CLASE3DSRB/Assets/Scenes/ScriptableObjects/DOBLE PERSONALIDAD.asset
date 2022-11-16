@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5b033ec4f458c84f8e0a3f31bbaaf9e, type: 3}
+  m_Name: DOBLE PERSONALIDAD
+  m_EditorClassIdentifier: 
+  cardName: DOBLE PERSONA
+  cardDescription: Esta carta cuenta como doble personaje tanto como para al atacar
+    como para defender
+  cardAttack: 11
+  cardDefense: 25
+  cardCost: 14
+  cardArt: {fileID: 21300000, guid: 139f8b8b702b40644936e4a8f491f03d, type: 3}

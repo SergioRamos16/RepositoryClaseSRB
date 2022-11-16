@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5b033ec4f458c84f8e0a3f31bbaaf9e, type: 3}
+  m_Name: MURCIANO
+  m_EditorClassIdentifier: 
+  cardName: MURCIANO
+  cardDescription: "Not Found\t"
+  cardAttack: 0
+  cardDefense: 0
+  cardCost: 0
+  cardArt: {fileID: 21300000, guid: 018947ddfc12cc44b96fd72bc6bd7b9e, type: 3}
